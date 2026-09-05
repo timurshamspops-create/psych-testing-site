@@ -1,0 +1,26 @@
+[
+  {
+    "id": "big5",
+    "title": "Тест Большой пятёрки",
+    "category": "Личность",
+    "description": "Короткий опросник о чертах характера: открытость, добросовестность, экстраверсия, доброжелательность, нейротизм.",
+    "duration": "10–12 мин",
+    "formUrl": "https://docs.google.com/forms/d/e/PASTE_YOUR_FORM_ID_HERE/viewform"
+  },
+  {
+    "id": "gad7",
+    "title": "Шкала тревожности GAD-7",
+    "category": "Тревожность",
+    "description": "Семь вопросов о том, как часто за последние две недели вас беспокоили тревожные мысли и напряжение.",
+    "duration": "3–5 мин",
+    "formUrl": "https://docs.google.com/forms/d/e/PASTE_YOUR_FORM_ID_HERE/viewform"
+  },
+  {
+    "id": "eq",
+    "title": "Тест на эмоциональный интеллект",
+    "category": "Эмоции",
+    "description": "Оценка того, насколько легко вам распознавать и понимать свои эмоции и эмоции других людей.",
+    "duration": "8–10 мин",
+    "formUrl": "https://docs.google.com/forms/d/e/PASTE_YOUR_FORM_ID_HERE/viewform"
+  }
+]
