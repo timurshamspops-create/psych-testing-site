@@ -1,7 +1,7 @@
 // Вставьте сюда адрес вашего Apps Script веб-приложения (см. apps-script/Code.gs
 // и README.md), чтобы результаты стали настоящими, а не демонстрационными.
 // Пример: "https://script.google.com/macros/s/AKfycb.../exec"
-var APPS_SCRIPT_URL = "";
+var APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyvWIwSC4M-ktUi8679SsWFYMvm0CtLy3Nr5rWcv1xmQ2rlR-L9Pjm2BZ-jMt061cWk/exec";
 
 var DEMO_COUNTS = [
   { id: "big5", count: 34 },
